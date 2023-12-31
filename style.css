@@ -7,7 +7,7 @@ body{
     align-items: center;
     background-color: hsl(212, 45%, 89%) ;
     height: 100vh;
-    gap: 3rem;
+    gap: 3.5rem;
 }
 .container{
     display: flex;
