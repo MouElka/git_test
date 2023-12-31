@@ -21,6 +21,7 @@ body{
 }
  .image{
   display: inline-block;
+  margin: auto;
    
 }
 .image img{
